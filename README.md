@@ -1,4 +1,4 @@
-Default users
+
 (superuser) admin:adminad
 Django
 Написать новостной сайт со страницами:
